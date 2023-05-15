@@ -1,4 +1,21 @@
-### Hi there 👋
+
+
+## Greetings, fellow humans! 🤖
+I'm Shreyas, a CS student with a passion for Web Development, 
+When I'm not coding, you can find me exploring the latest and greatest in the world of technology, especially when it comes to Linux and its tools. I love to make stuff and am always on the lookout for new challenges and opportunities to learn and grow.
+
+
+## My skills
+
+[![skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,nodejs,express,html,css,vim&theme=dark)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnair02&hide_progress=false&layout=compact&theme=github_dark)](https://github.com/shreyasnair02/)
+## Socials
+
+[![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Nairobi02) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/shreyas-nair-40a818245/)
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **shreyasnair02/shreyasnair02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
