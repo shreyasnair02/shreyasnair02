@@ -9,7 +9,7 @@ When I'm not coding, you can find me exploring the latest and greatest in the wo
 
 [![skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,nodejs,express,html,css,vim&theme=dark)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnair02&hide_progress=false&layout=compact&theme=github_dark)](https://github.com/shreyasnair02/)
+
 ## Socials
 
 [![Codepen](https://img.shields.io/badge/codepen-white?&style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/Nairobi02) [![LinkedIn](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/shreyas-nair-40a818245/)
