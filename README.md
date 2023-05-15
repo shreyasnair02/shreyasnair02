@@ -10,7 +10,9 @@ When I'm not coding, you can find me exploring the latest and greatest in the wo
 [![skills](https://skillicons.dev/icons?i=js,react,tailwind,sass,nodejs,express,html,css,vim&theme=dark)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats-4y7kc9erq-shreyasnair02.vercel.app/api/top-langs/?username=shreyasnair02&hide_progress=false&layout=compact&theme=github_dark)](https://github.com/shreyasnair02/)
+<!-- [![Top Langs](https://github-readme-stats-4y7kc9erq-shreyasnair02.vercel.app/api/top-langs/?username=shreyasnair02&hide_progress=false&layout=compact&theme=github_dark)](https://github.com/shreyasnair02/) -->
+## Most used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnair02&layout=compact&theme=github_dark"/>
 
 ## Socials
 
